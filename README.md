@@ -12,7 +12,9 @@ Para tentar ajudar a resolver isso, foi desenvolvido uma calculadora de eficiên
 ## 🛠️ Tecnologias usadas
 
 HTML: Para montar toda a estrutura do site (textos, formulário, seções e rodapé).
+
 CSS: Para deixar o site bonito, usamos tons de verde e marrom terra para combinar com o tema. Também configuramos o layout (com Flexbox e Grid) para que o site funcione direitinho tanto no computador quanto na tela do celular (responsivo).
+
 JavaScript: É a "inteligência" do site. Ele pega os números que o usuário digita, faz as contas de divisão para descobrir a produtividade, decide qual mensagem de feedback mostrar e até muda a cor do resultado (verde para bom, vermelho para alerta) sem precisar atualizar a página.
 
 ## 📁 Como o projeto está organizado

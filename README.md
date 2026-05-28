@@ -28,4 +28,4 @@ Fizemos o site do zero, usando a base que aprendemos nas aulas de programação,
 2. Dê dois cliques no arquivo `index.html`. Ele vai abrir direto no seu navegador de internet e já dá para usar o simulador.
 
 ---
-**Desenvolvido por:** Isabela - 3º Ano do Ensino Médio (Escola Pública)
+**Desenvolvido por:** Isabela - 3º Ano do Ensino Médio
